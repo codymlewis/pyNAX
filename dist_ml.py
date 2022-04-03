@@ -1,4 +1,3 @@
-import glob
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 from matplotlib.animation import FuncAnimation
